@@ -1,6 +1,6 @@
 <p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
-<p align="center">I'm conaticus, a programming enthusiast from the United Kingdom.</p>
+
 
 <p align="center">
   <a href="https://github.com/SamTheFam?tab=followers">
@@ -29,6 +29,3 @@
 <img width="20" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fplatform-user-uploads.s3.amazonaws.com%2Fblog%2Fcategory%2Flogo%2F60%2Fsql.png&f=1&nofb=1" /> SQL
 
 <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/1200px-Logo-ubuntu_cof-orange-hex.svg.png" /> Linux
-
-## How to reach me?
-Business Enquiries: enquiry.conaticus@gmail.com
