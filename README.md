@@ -12,6 +12,7 @@
 </p>
 
 ## Skills
+<p align="center">
 <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" /> C
 
 <img width="20" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F4%2F4c%2FTypescript_logo_2020.svg%2F512px-Typescript_logo_2020.svg.png&f=1&nofb=1" /> TypeScript 
@@ -29,3 +30,4 @@
 <img width="20" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fplatform-user-uploads.s3.amazonaws.com%2Fblog%2Fcategory%2Flogo%2F60%2Fsql.png&f=1&nofb=1" /> SQL
 
 <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/1200px-Logo-ubuntu_cof-orange-hex.svg.png" /> Linux
+</p>
